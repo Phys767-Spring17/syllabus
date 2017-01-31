@@ -28,4 +28,4 @@
 ## Discussion Forums
 - Use the [Issues](https://github.com/Phys767-Spring17/syllabus/issues) to ask questions and start discusions 
 - [Google Group](https://groups.google.com/forum/#!forum/phys767-spring2017) will be used for course announcements
-- Should we start a slack channel? Let's discuss in #1.
+- [Slack](https://phys767.slack.com/shared_invite/MTM1MDU1ODg4Mzg3LTE0ODU4OTkzMDgtYTgwMDk4NjUxNA) for realtime chat
