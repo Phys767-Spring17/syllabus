@@ -24,3 +24,8 @@
 ## System Requirements
 - Python 3
 - more TBD
+
+## Discussion Forums
+- Use the [Issues](https://github.com/Phys767-Spring17/syllabus/issues) to ask questions and start discusions 
+- [Google Group](https://groups.google.com/forum/#!forum/phys767-spring2017) will be used for course announcements
+- Should we start a slack channel? Let's discuss in #1.
