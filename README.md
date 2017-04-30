@@ -47,3 +47,8 @@ Students who are not on track for getting an 'A' will be contacted privately by 
 
 ## Schedule
 The first third of the semester focuses on documentation, coding best practices, and gaining familiarity with GitHub. The second third emphasizes unit testing, code review, and more advanced GitHub topics. Finally, we will focus on data vizualization and best pracitces for using Python to make scientific graphs.
+
+## Expected Learning Outcomes
+- Students will be able to apply best coding practices in order to write code which is readable and documented.
+- Students will be able to use git in order to have a version control system for their code.
+- Students will be able to use GitHub in order for their code to be open source and to facilitate collaborative work.
