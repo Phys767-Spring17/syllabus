@@ -33,6 +33,8 @@ topics in Python programming, statistics, and data vizualization.
 
 ## Assignments
 Course assignments will be individualized based on the background, experience, and interests of each student. They will be discussed at the beginning and end of each class meeting and clear milestones will be agreed upon between the student and the Professor. It is anticipated that each student will contribute to 2--3 distinct projects throughout the span of the semester.
+### Final Project
+All students will submit a final project which reflects progress in coding practices (documentation, unit testing), version control and collaboration via GitHub, code review, and data visualization. The only components of the project which will be graded are those visible in the student's GitHub repo. **Due date is May 19**. 
 
 ## Grading
 Grades will be based on in-class participation, contributions to team projects, and demonstrated **progress** in three main areas:
@@ -43,5 +45,5 @@ Grades will be based on in-class participation, contributions to team projects, 
 
 Students who are not on track for getting an 'A' will be contacted privately by the instructor. 
 
-## Programming Topics
-The first third of the semester focuses on a mastery of Github. The second third emphasizes commenting, documentation, and code review. Finally, unit testing will be introduced.
+## Schedule
+The first third of the semester focuses on documentation, coding best practices, and gaining familiarity with GitHub. The second third emphasizes unit testing, code review, and more advanced GitHub topics. Finally, we will focus on data vizualization and best pracitces for using Python to make scientific graphs.
