@@ -11,10 +11,10 @@
 
 ## Course Description
 This project-based course focuses on tools, best practices, and workflows common in Astrophysics research. These include 
-topics in Python programming, statistics, and data vizualization. 
+topics in Python programming, statistics, and data visualization. 
 
 ## Requirements
-- **Laptop**: A laptop, perferably a Mac, is required for in class work.
+- **Laptop**: A laptop, preferably a Mac, is required for in class work.
   - Python 3 is the non-optional programming language for the course.
 - **GitHub account**: all assignments will be submitted and graded via [GitHub](http://github.com).
 - **Slack account**: communication between the professor and other students will use dedicated [Slack](https://phys767.slack.com/shared_invite/MTM1MDU1ODg4Mzg3LTE0ODU4OTkzMDgtYTgwMDk4NjUxNA) channel
@@ -41,14 +41,18 @@ Grades will be based on in-class participation, contributions to team projects, 
 
 1. programming best practices
 2. statistics proficiency
-3. data vizualization
+3. data visualization
 
 Students who are not on track for getting an 'A' will be contacted privately by the instructor. 
 
 ## Schedule
-The first third of the semester focuses on documentation, coding best practices, and gaining familiarity with GitHub. The second third emphasizes unit testing, code review, and more advanced GitHub topics. Finally, we will focus on data vizualization and best pracitces for using Python to make scientific graphs.
+The first third of the semester focuses on documentation, coding best practices, and gaining familiarity with GitHub. The second third emphasizes unit testing, code review, and more advanced GitHub topics. Finally, we will focus on data visualization and best practices for using Python to make scientific graphs.
 
 ## Expected Learning Outcomes
-- Students will be able to apply best coding practices in order to write code which is readable and documented.
-- Students will be able to use git in order to have a version control system for their code.
-- Students will be able to use GitHub in order for their code to be open source and to facilitate collaborative work.
+- Students will be able to apply best coding practices in order to write code which is readable and well documented.
+- Students will be able to use git on their own laptop in order to have a version control system for their code.
+- Students will be able to use GitHub in order for their code to be open source and to facilitate collaborative code writing and code review.
+- Students will be able to provide meaningful feedback on other people's code based on best practices.
+- Students will be familiar with basic Bayesian statistical concepts in order to understand results from markov chain Monte Carlo (MCMC) methods.
+- Students will be able to critically assess scientific visualizations in order to identify ways to make them more effective.
+- Students will be able to use at least one Python-based visualization package in order to generate and customize visualizations of scientific output.
